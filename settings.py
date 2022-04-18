@@ -1,0 +1,5 @@
+PAYMODES = {
+    "efectivo",
+    "cuentas",
+    "credito"
+}
